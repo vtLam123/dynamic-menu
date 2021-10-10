@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\Lam\dai hoc\làm thêm\menu động\menu động\menu động\mylib.h(27,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+E:\Lam\dai hoc\làm thêm\menu động\menu động\menu động\mylib.h(27,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+E:\Lam\dai hoc\làm thêm\menu động\menu động\menu động\Source.cpp(132,23): warning C4018: '<': signed/unsigned mismatch
+  menu động.vcxproj -> E:\Lam\dai hoc\làm thêm\menu động\menu động\Debug\menu động.exe
